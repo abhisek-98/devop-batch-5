@@ -1,4 +1,5 @@
 this is freature 2
+<<<<<<< HEAD
 
 
 
@@ -21,3 +22,5 @@ thoda aur kam ache se kiya
 
 
 aur achese  
+=======
+>>>>>>> parent of 8eae5a6 (added feature 2 some changes)
